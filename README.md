@@ -38,12 +38,6 @@ CREATOR_MONETIZATION/
 │
 └── README.md
 ```
-### Running the notebooks
-Run in this order:
-
-1. `data_fetching.ipynb` — collects raw data (~10-15 mins, requires API key)
-2. `data_analysis.ipynb` — EDA and feature engineering
-3. `modeling.ipynb` — all models and A/B test (~20-30 mins for GridSearch)
 
 ---
 
